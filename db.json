@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Model 1",
+    "background": "#f2f5f9"
+  },
+  {
+    "title": "Model 2",
+    "background": "#edf2f7"
+  },
+  {
+    "title": "Model 3",
+    "background": "#e9eff6"
+  },
+  {
+    "title": "Model 4",
+    "background": "#e4ebf4"
+  },
+  {
+    "title": "Lowest Cost Solar Panels in America",
+    "subtitle": "Money-back guarantee",
+    "background": "#e0e8f2",
+    "buttons": [
+      {
+        "text": "Order Now",
+        "link": ""
+      },
+      {
+        "text": "Learn More",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Solar for New Roofs",
+    "subtitle": "Solar Roof Costs Less Than a New Roof Plus Solar Panels",
+    "background": "#dbe5f0",
+    "buttons": [
+      {
+        "text": "Order Now",
+        "link": ""
+      },
+      {
+        "text": "Learn More",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Accessories",
+    "subtitle": "",
+    "background": "#d7e1ee",
+    "buttons": [
+      {
+        "text": "Shop Now",
+        "link": ""
+      }
+    ]
+  }
+]
